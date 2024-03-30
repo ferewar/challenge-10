@@ -1,0 +1,22 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "A command-line application to generate SVG logos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  }
+}
